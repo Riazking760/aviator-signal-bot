@@ -1,1 +1,0 @@
-# aviator-signal-bot
